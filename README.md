@@ -18,7 +18,7 @@ Este script implementa um sistema que mantém a direção aleatória dos veícul
 
 1. **Adicione ao server.cfg:**
    ```cfg
-   ensure steering_random
+   ensure rgarage_steering
    ```
 
 2. **Reinicie o servidor**
@@ -39,5 +39,3 @@ O script não requer configuração adicional. Funciona automaticamente em todos
 **Ryu Garage™**
 
 ---
-
-*Sistema extraído do rgarage_handlingfilter para uso independente.*
